@@ -1,0 +1,2 @@
+# StacksExIntellij
+Stacks example Intelliji
